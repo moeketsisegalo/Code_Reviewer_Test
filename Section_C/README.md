@@ -11,6 +11,8 @@ Please note that the Dockerfile provided in the repository takes care of the nec
 
 ## How to Use
 
+
+
 1. Ensure that you have Docker installed on your system.
    Checking Docker Installation
 
@@ -28,7 +30,14 @@ Please note that the Dockerfile provided in the repository takes care of the nec
    * Follow the installation instructions provided on the Docker website for your specific operating system.
    * Once Docker is installed, verify the installation by running the docker --version command again.
 
-
+2. Clone the repository to your local machine:
+```
+git clone https://github.com/moeketsisegalo/Code_Reviewer_Test.git
+```
+2. Change to the project directory:
+```
+cd Code_Reviewer_Test
+```
 2. Build the Docker image:
 ```
 docker build -t code_challenge .
