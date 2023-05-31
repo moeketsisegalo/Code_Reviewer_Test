@@ -11,6 +11,7 @@ The variable names are descriptive and the indentation is consistent, following 
 Aspects of the submission that could be improved:
 
 Efficiency (Line 5): The code can be optimized by using a character count-based approach to identify anagrams. This approach avoids the need for sorting each string and can have a time complexity of O(n * m), where n is the number of strings and m is the average length of the strings.
+
 Documentation: There are no comments provided in the code to explain its purpose, logic, or input/output. Adding appropriate comments or docstrings would improve the code's readability and make it easier for others (including yourself) to understand and maintain the code in the future.
 
 Overall feedback:
