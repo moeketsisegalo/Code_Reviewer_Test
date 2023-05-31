@@ -38,7 +38,7 @@ git clone https://github.com/moeketsisegalo/Code_Reviewer_Test.git
 ```
 cd Code_Reviewer_Test
 ```
-   Navigate to the Section_C directory
+   Then navigate to the Section_C directory
    ```
    cd Section_C
    ```
