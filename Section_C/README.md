@@ -1,6 +1,6 @@
 # Number Converter
 
-This is a simple program that converts numeric values to their word representations.
+This is a simple program that converts numeric values to their word representations using C# programming language.
 
 ## Prerequisites
 
