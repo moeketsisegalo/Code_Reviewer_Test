@@ -43,11 +43,12 @@ cd Code_Reviewer_Test
 docker build -t code_challenge .
 ```
 
-![Build App](Section_C/screenshots/build_app.png)
+![Build App](https://raw.githubusercontent.com/moeketsisegalo/Code_Reviewer_Test/main/Section_C/screenshots/build_app.png)
+
 
 3.Run the Docker container:
 ```
 docker run code_challenge
 ```
-![Build App](Section_C/screenshots/run_app.png)
+![Run App](Section_C/screenshots/run_app.png)
 The program will execute and display the word representations of the provided numeric values.
