@@ -38,6 +38,10 @@ git clone https://github.com/moeketsisegalo/Code_Reviewer_Test.git
 ```
 cd Code_Reviewer_Test
 ```
+   Navigate to the Section_C directory
+   ```
+   cd Section_C
+   ```
 2. Build the Docker image:
 ```
 docker build -t code_challenge .
