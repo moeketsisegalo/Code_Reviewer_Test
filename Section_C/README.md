@@ -5,6 +5,15 @@ This is a simple program that converts numeric values to their word representati
 ## How to Use
 
 1. Ensure that you have Docker installed on your system.
+   Checking Docker Installation
+
+   Open a terminal or command prompt.
+   Run the following command:
+   ```
+   docker --version
+
+   ```
+
 
 2. Build the Docker image:
    ```shell
