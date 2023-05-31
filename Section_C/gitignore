@@ -1,0 +1,37 @@
+# Visual Studio files
+.vs/
+bin/
+obj/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# User-specific files
+*.userprefs
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet
+packages/
+*.nupkg
+
+# .NET Core
+/.dotnet/
+/global.json
+/obj/
+*.dll
+*.exe
+*.pdb
+*.userprefs
+*.log
+
+# Build Folders
+[Bb]in/
+[Oo]bj/
+
+# Misc
+[Tt]humbs.db
+.DS_Store
+ 
