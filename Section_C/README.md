@@ -23,9 +23,9 @@ This is a simple program that converts numeric values to their word representati
 
 
 2. Build the Docker image:
-   ```shell
-   docker build -t code_challenge .
-
+```
+docker build -t code_challenge .
+```
 3.Run the Docker container:
 ```
 docker run code_challenge
