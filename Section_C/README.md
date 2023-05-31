@@ -2,6 +2,13 @@
 
 This is a simple program that converts numeric values to their word representations.
 
+## Prerequisites
+
+Before running the program, ensure that you have the following prerequisites installed on your system:
+
+Docker: Make sure you have Docker installed on your system. You can download and install Docker from the official website: https://www.docker.com/get-started
+Please note that the Dockerfile provided in the repository takes care of the necessary dependencies and ensures the correct version of .NET Core is used within the Docker container. Therefore, you don't need to separately install the .NET Core SDK on your system. Docker will handle the installation and configuration of the required runtime environments.
+
 ## How to Use
 
 1. Ensure that you have Docker installed on your system.
